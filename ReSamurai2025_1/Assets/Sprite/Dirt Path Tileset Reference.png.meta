@@ -1,0 +1,1539 @@
+fileFormatVersion: 2
+guid: ce65dbfbbb2279048bd5c0ee8f0d06c5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 618.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e74b31f1fd47e468791f806b4fe7f5
+      internalID: -1174483385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 618.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1399e692b310b4f9e672a25b860d7a
+      internalID: 1290004670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 618.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f97775e68a8c24f845c96ff1bc5816
+      internalID: 421186051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_3
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 618.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46ab14c29a116849b5e27e921b97092
+      internalID: 1121621010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_4
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 618.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f17109d91aa2234a867cd0b92928bd6
+      internalID: 445707678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_5
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 618.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1110301e420f7374a89e8619305ea9ed
+      internalID: -606196000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_6
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 618.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3872b34fd6e164788b4ef9c7a50683
+      internalID: -1259243453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_7
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 618.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a81a4a040ae670419280647e40f0d57
+      internalID: -1931408592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_8
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 618.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fddaaa72134654e84f47df26a13e0b
+      internalID: -424478245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 516.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debd33234cd00314486215c57f3c12d6
+      internalID: -1248230274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 516.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d18f7659da1be499a42dbf031d3997
+      internalID: -1934396715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 516.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c3d80d8c9d6db43a0fb6c48169411c
+      internalID: -2083314706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_12
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 516.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66112e8820422854abe269b9e690f2dc
+      internalID: -1019200096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_13
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 516.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d241e0109fc13240b7be12463721e04
+      internalID: 1502769273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_14
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 516.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc63eef7bb3d1e44988cedc26a43f23
+      internalID: 188887631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_15
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 516.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3eb35331e62b44cabdc81fe13cd41f
+      internalID: -85390948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_16
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 516.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba580a3244b6ba24f9c64ac52bc4e3b7
+      internalID: -252698878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_17
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 516.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f636d3f26542464993c74a85bbef077
+      internalID: 1507463613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 414.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12aae8089ab9964d9700ad52257c5a6
+      internalID: -523024660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 414.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee03f231849b1349bbedb126f1704e8
+      internalID: -992506882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_20
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 414.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7165330f9cb9c014e872bf72672fa3fb
+      internalID: 962452370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_21
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 414.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3011bef28781ebe40a835e3f2ecd5baa
+      internalID: -2062017355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_22
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 414.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81569e6d6ce01df4787fe18a6595bb3f
+      internalID: 832142651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_23
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 414.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1dae0065abc09418f8decfdad583e0
+      internalID: 417928418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_24
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 414.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bf7653362780941994ecc2be159608
+      internalID: -1981441634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_25
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 414.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf90967a036a0c40ac6949cf9ba2af4
+      internalID: 1462525900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_26
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 414.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9801032b182aa448ad43e5357eafa1f
+      internalID: 151130764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 312.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e41b2429cd7b54bb74d46f9ec9e5ff
+      internalID: 229061388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 312.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690497594cb103b49ba1e29a90b2c645
+      internalID: -427576922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 312.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19507a547260c4f49ad5515be483fd68
+      internalID: 1400850577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_30
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 312.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c282bd79fed104299f0d07b95abd93
+      internalID: -2096816832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_31
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 312.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672aed12f25a8f74c99ec77d8831eeda
+      internalID: -1890875515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_32
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 312.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f31cc7b82155840b2b15d1947e96ac
+      internalID: 355437931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_33
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 312.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9aac4d225d4eb49be9954db3085b3f
+      internalID: -1554341644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_34
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 312.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0523ba43b1afbd34fa4751ba4ddf7d17
+      internalID: -2061242124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_35
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 312.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb25294dde624d741b90e5384aa37aa3
+      internalID: 2067821122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 210.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797528d34e49ee341b2d433fab55d407
+      internalID: 197268912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 210.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b9bc4abff629346bbbec33cb9c61eb
+      internalID: 577939276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_38
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 210.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1189eabf84b1ca5448f29483297b9c2a
+      internalID: -1817090813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_39
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 210.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361c1cab16afdf944abde6e859f67517
+      internalID: -1091604201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_40
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 210.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eff2edd3436cd74785bc9eae284bf0f
+      internalID: 414143223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_41
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 210.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f755a38fe87e894a926228ba478ea9c
+      internalID: -437608623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_42
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 210.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b92dbdba4b89e24c893b75bad3244df
+      internalID: -1590171669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_43
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 210.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b83f85bb09b184bbb00cb843d1a4cb
+      internalID: -55368563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_44
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 210.7143
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549e6453cd618a146b9cf090f70574b9
+      internalID: 1034690620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108.71429
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96823320cb3f0704a9cc646c3751dfa0
+      internalID: 2115140848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_46
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 108.71429
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151f8dc9291c4d24ebb154ab49ab305d
+      internalID: 2021739469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_47
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 108.71429
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999498167abb94c4e80ece54e06692e2
+      internalID: 643303274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_48
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 108.71429
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d6dab7a4ccb284da0a4bbc146e6a41
+      internalID: 470613493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_49
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 108.71429
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3597eecbd7ebc91408e7c999cc914752
+      internalID: -1991195882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_50
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 108.71429
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d49c64c7b68de439263870c6c1915e
+      internalID: -1659983042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_51
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 108.71429
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d6817b7093f474d876cb5986e9b14b
+      internalID: 1133534231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_52
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 108.71429
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4637b333d5926644087e6812a9e9f3b7
+      internalID: 291159339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_53
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 108.71429
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300027e18b15da448b743f5e4452aab9
+      internalID: 1684255339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_54
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6.714287
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d3944015b7eb0419421e39e501c637
+      internalID: 761593114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_55
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 6.714287
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f759c0909480f42826a02b575f4d15
+      internalID: -1461790636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_56
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 6.714287
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f84b4df8650ba49a8394c24c537742
+      internalID: -1479308617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_57
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 6.714287
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ff98d3b743af248a5e89f1b8055197
+      internalID: 1167310884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_58
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 6.714287
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824d1337df0ae9043b2c488d32f376b4
+      internalID: 1712311929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_59
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 6.714287
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d016b3d0da43547b43fc106cbf61ba
+      internalID: -879938281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_60
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 6.714287
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5220b4d8dc73ab48af178e72f86810e
+      internalID: 1660658832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_61
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 6.714287
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149e8d621bbe7ce4c92a40adb123ee60
+      internalID: 1579931787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Path Tileset Reference_62
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 6.714287
+        width: 96.333336
+        height: 97.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86c3061c883e8747b8f08715890f49e
+      internalID: 1624523099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dirt Path Tileset Reference_0: -1174483385
+      Dirt Path Tileset Reference_1: 1290004670
+      Dirt Path Tileset Reference_10: -1934396715
+      Dirt Path Tileset Reference_11: -2083314706
+      Dirt Path Tileset Reference_12: -1019200096
+      Dirt Path Tileset Reference_13: 1502769273
+      Dirt Path Tileset Reference_14: 188887631
+      Dirt Path Tileset Reference_15: -85390948
+      Dirt Path Tileset Reference_16: -252698878
+      Dirt Path Tileset Reference_17: 1507463613
+      Dirt Path Tileset Reference_18: -523024660
+      Dirt Path Tileset Reference_19: -992506882
+      Dirt Path Tileset Reference_2: 421186051
+      Dirt Path Tileset Reference_20: 962452370
+      Dirt Path Tileset Reference_21: -2062017355
+      Dirt Path Tileset Reference_22: 832142651
+      Dirt Path Tileset Reference_23: 417928418
+      Dirt Path Tileset Reference_24: -1981441634
+      Dirt Path Tileset Reference_25: 1462525900
+      Dirt Path Tileset Reference_26: 151130764
+      Dirt Path Tileset Reference_27: 229061388
+      Dirt Path Tileset Reference_28: -427576922
+      Dirt Path Tileset Reference_29: 1400850577
+      Dirt Path Tileset Reference_3: 1121621010
+      Dirt Path Tileset Reference_30: -2096816832
+      Dirt Path Tileset Reference_31: -1890875515
+      Dirt Path Tileset Reference_32: 355437931
+      Dirt Path Tileset Reference_33: -1554341644
+      Dirt Path Tileset Reference_34: -2061242124
+      Dirt Path Tileset Reference_35: 2067821122
+      Dirt Path Tileset Reference_36: 197268912
+      Dirt Path Tileset Reference_37: 577939276
+      Dirt Path Tileset Reference_38: -1817090813
+      Dirt Path Tileset Reference_39: -1091604201
+      Dirt Path Tileset Reference_4: 445707678
+      Dirt Path Tileset Reference_40: 414143223
+      Dirt Path Tileset Reference_41: -437608623
+      Dirt Path Tileset Reference_42: -1590171669
+      Dirt Path Tileset Reference_43: -55368563
+      Dirt Path Tileset Reference_44: 1034690620
+      Dirt Path Tileset Reference_45: 2115140848
+      Dirt Path Tileset Reference_46: 2021739469
+      Dirt Path Tileset Reference_47: 643303274
+      Dirt Path Tileset Reference_48: 470613493
+      Dirt Path Tileset Reference_49: -1991195882
+      Dirt Path Tileset Reference_5: -606196000
+      Dirt Path Tileset Reference_50: -1659983042
+      Dirt Path Tileset Reference_51: 1133534231
+      Dirt Path Tileset Reference_52: 291159339
+      Dirt Path Tileset Reference_53: 1684255339
+      Dirt Path Tileset Reference_54: 761593114
+      Dirt Path Tileset Reference_55: -1461790636
+      Dirt Path Tileset Reference_56: -1479308617
+      Dirt Path Tileset Reference_57: 1167310884
+      Dirt Path Tileset Reference_58: 1712311929
+      Dirt Path Tileset Reference_59: -879938281
+      Dirt Path Tileset Reference_6: -1259243453
+      Dirt Path Tileset Reference_60: 1660658832
+      Dirt Path Tileset Reference_61: 1579931787
+      Dirt Path Tileset Reference_62: 1624523099
+      Dirt Path Tileset Reference_7: -1931408592
+      Dirt Path Tileset Reference_8: -424478245
+      Dirt Path Tileset Reference_9: -1248230274
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
